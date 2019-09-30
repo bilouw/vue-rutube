@@ -65,15 +65,14 @@ export default {
   }
 }
 ```
-
-####  Methods :
+####  Methods : 
 | Name | Parameters | Description |
-|--|--|--|--|
+|--|--|--|
 | play | none | play video |
-| pause | none | pause video |
-| stop | none | stop video |
-| mute | none | mute video |
-| unMute | none | unmute video |
+| pause | none | pause video | 
+| stop | none | stop video | 
+| mute | none | mute video | 
+| unMute | none | unmute video | 
 | setCurrentTime (seconds) | Number | set current time (absolute) in seconds |
 | getCurrentTime | none | get current time in seconds |
 | relativelySeek (seconds) | Number | set current time (relative) - negative value seek back |
