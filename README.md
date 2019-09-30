@@ -40,7 +40,8 @@ methods: {
 ```
 ### Events :
 The component triggers events to notify the parent component of changes in the player. For more information, see [Rutube Player JSON API](https://github.com/rutube/RutubePlayerJSAPI)
-|Event|
+
+| Event|
 |--|
 | ready |
 | playing |
