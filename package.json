@@ -1,16 +1,23 @@
 {
   "name": "vue-rutube",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rutube Player API wrapper for VueJS",
   "author": {
     "name": "Bilou",
     "email": "thomas.bardon@outlook.com"
   },
   "repository": "https://github.com/username/project",
-  "keywords": ["vuejs", "rutube", "player", "api"],
+  "keywords": [
+    "vuejs",
+    "rutube",
+    "player",
+    "api"
+  ],
   "license": "MIT",
   "private": false,
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "main": "dist/VueRutube.umd.js",
   "unpkg": "dist/VueRutube.umd.min.js",
   "scripts": {
